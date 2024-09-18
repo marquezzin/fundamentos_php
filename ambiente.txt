@@ -1,0 +1,3 @@
+Instalação do Xampp -> variavel de trabalho
+Arquivo do vscode na pasta htdocs dentro do Xampp
+Apache Start - > LocalHost
